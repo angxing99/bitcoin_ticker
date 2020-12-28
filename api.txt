@@ -1,0 +1,7 @@
+curl https://rest.coinapi.io/v1/exchangerate/BTC/USD \
+  --request GET
+  --header "X-CoinAPI-Key: EE4E9A6A-61D8-4216-8FC7-E8B9F93D2CCF"
+
+
+
+https://rest.coinapi.io/v1/exchangerate/BTC/USD?apikey=EE4E9A6A-61D8-4216-8FC7-E8B9F93D2CCF
